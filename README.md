@@ -13,7 +13,7 @@
 ---
 
 ### 👨‍💻 About Me
-I'm a B.Tech Computer Science & Engineering (Data Science) student at Lovely Professional University (Expected 2027, CGPA: 7.7). My work bridges research and deployment—from engineering 99.5% accurate disease detection models to building real-time ETL pipelines processing unstructured data at scale.
+I'm a B.Tech Computer Science & Engineering (Data Science) student at Lovely Professional University (Expected 2027, CGPA: 7.7). My work bridges research and deployment—from engineering 97.5% accurate disease detection models to building real-time ETL pipelines processing unstructured data at scale.
 
 ```python
 class DataScientist:
